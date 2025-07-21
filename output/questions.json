@@ -1,0 +1,233 @@
+[
+  {
+    "question": "How many parts make up the shape shown in the picture?",
+    "options": [
+      "A) 1",
+      "B) 2",
+      "C) 3",
+      "D) 4"
+    ],
+    "answer": "C",
+    "images": "images\\page1_img1.png"
+  },
+  {
+    "question": "How many lines are there in the image?",
+    "options": [
+      "A) 1",
+      "B) 2",
+      "C) 3",
+      "D) 4"
+    ],
+    "answer": "C",
+    "images": "images\\page2_img1.png"
+  },
+  {
+    "question": "How many paperclips are there in the picture?",
+    "options": [
+      "A) 10",
+      "B) 15",
+      "C) 20",
+      "D) 25"
+    ],
+    "answer": "C",
+    "images": "images\\page2_img6.png"
+  },
+  {
+    "question": "How many sticks are used to make the shape?",
+    "options": [
+      "A) 1",
+      "B) 2",
+      "C) 3",
+      "D) 4"
+    ],
+    "answer": "C",
+    "images": "images\\page3_img1.png"
+  },
+  {
+    "question": "How many lines are there in the image?",
+    "options": [
+      "A) 1",
+      "B) 2",
+      "C) 3",
+      "D) 4"
+    ],
+    "answer": "C",
+    "images": "images\\page4_img1.png"
+  },
+  {
+    "question": "What is the price of the shampoo?",
+    "options": [
+      "A) ₹34.50",
+      "B) ₹15.80",
+      "C) ₹25.71",
+      "D) ₹40.31"
+    ],
+    "answer": "C",
+    "images": "images\\page4_img2.png"
+  },
+  {
+    "question": "How many lines are there in the image?",
+    "options": [
+      "A) 1",
+      "B) 2",
+      "C) 3",
+      "D) 4"
+    ],
+    "answer": "C",
+    "images": "images\\page5_img1.png"
+  },
+  {
+    "question": "How many sticks are there in the image?",
+    "options": [
+      "A) 1",
+      "B) 2",
+      "C) 3",
+      "D) 4"
+    ],
+    "answer": "C",
+    "images": "images\\page6_img1.png"
+  },
+  {
+    "question": "How many sides does the shape in the picture have?",
+    "options": [
+      "A) 1",
+      "B) 2",
+      "C) 3",
+      "D) 4"
+    ],
+    "answer": "C",
+    "images": "images\\page7_img1.png"
+  },
+  {
+    "question": "How many parts does the shape have?",
+    "options": [
+      "A) 1",
+      "B) 2",
+      "C) 3",
+      "D) 4"
+    ],
+    "answer": "C",
+    "images": "images\\page8_img1.png"
+  },
+  {
+    "question": "How many apples are there on the tree?",
+    "options": [
+      "A) 3",
+      "B) 4",
+      "C) 5",
+      "D) 6"
+    ],
+    "answer": "C",
+    "images": "images\\page8_img2.png"
+  },
+  {
+    "question": "How many apples are there on the tree?",
+    "options": [
+      "A) 5",
+      "B) 6",
+      "C) 8",
+      "D) 9"
+    ],
+    "answer": "C",
+    "images": "images\\page8_img3.png"
+  },
+  {
+    "question": "How many apples are there on the tree?",
+    "options": [
+      "A) 8",
+      "B) 9",
+      "C) 10",
+      "D) 11"
+    ],
+    "answer": "C",
+    "images": "images\\page8_img4.png"
+  },
+  {
+    "question": "How many apples are there on the tree?",
+    "options": [
+      "A) 7",
+      "B) 8",
+      "C) 10",
+      "D) 9"
+    ],
+    "answer": "C",
+    "images": "images\\page8_img5.png"
+  },
+  {
+    "question": "How many sides does the shape in the circle have?",
+    "options": [
+      "A) 1",
+      "B) 2",
+      "C) 3",
+      "D) 4"
+    ],
+    "answer": "C",
+    "images": "images\\page9_img1.png"
+  },
+  {
+    "question": "How many lines are there in the image?",
+    "options": [
+      "A) 1",
+      "B) 2",
+      "C) 3",
+      "D) 4"
+    ],
+    "answer": "C",
+    "images": "images\\page10_img1.png"
+  },
+  {
+    "question": "How many lines are in the image?",
+    "options": [
+      "A) 1",
+      "B) 2",
+      "C) 3",
+      "D) 4"
+    ],
+    "answer": "C",
+    "images": "images\\page11_img1.png"
+  },
+  {
+    "question": "What day of the week is December 25th, 2014?",
+    "options": [
+      "A) Sunday",
+      "B) Monday",
+      "C) Thursday",
+      "D) Friday"
+    ],
+    "answer": "C",
+    "images": "images\\page11_img4.png"
+  },
+  {
+    "question": "How many lines make up the shape?",
+    "options": [
+      "A) 1",
+      "B) 2",
+      "C) 3",
+      "D) 4"
+    ],
+    "answer": "C",
+    "images": "images\\page12_img1.png"
+  },
+  {
+    "question": "How many lines make up the shape in the picture?",
+    "options": [
+      "A) 1",
+      "B) 2",
+      "C) 3",
+      "D) 4"
+    ],
+    "answer": "C",
+    "images": "images\\page13_img1.png"
+  },
+  {
+    "question": "How many lines make the shape shown in the picture?",
+    "options": [
+      "A) 1",
+      "B) 2",
+      "C) 3",
+      "D) 4"
+    ],
+    "answer": "C",
+    "images": "images\\page14_img1.png"
+  }
+]
